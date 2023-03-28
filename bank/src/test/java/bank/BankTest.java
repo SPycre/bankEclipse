@@ -1,19 +1,13 @@
-/**
- * 
- */
 package bank;
-
-import bank.Account;
-import bank.Bank;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
-public class TestBank {
+public class BankTest {
 
 	@Test
 	public void testBank() {
